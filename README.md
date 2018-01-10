@@ -82,6 +82,7 @@
     <td>2016 ECCV</td>
 	<td><a href="./SSD Single Shot MultiBox Detector.pdf">链接</td>
   </tr>
+</table>
 
 ## 语义分割
 <table>
